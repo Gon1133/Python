@@ -2,5 +2,5 @@
 Lib
 Scripts
 venv
-.cfg
-.pyc
+*.cfg
+*.pyc
