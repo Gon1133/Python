@@ -1,0 +1,7 @@
+a = float(input("nhập phần thực = "))
+b = float(input("nhập phần ảo = "))
+z = complex(a,b)
+m = pow(a*a+b*b,0.5)
+print('modun của số phức',z,'= ',m)
+y = complex(a,-b)
+print('số phức liên hợp của',z,'= ',y)
